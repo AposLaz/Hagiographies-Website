@@ -1,0 +1,9 @@
+1. sth database exw valei akoma ena column me onoma 'HASH' gia kryptografhsh tou kwdikou. Dne einai kalo na fainetai o kwdikos, akoma ki an einai sth vash dedomenwn
+2. Eftiaksa ena keno index.html arxeio mesa ston fakelo login2 giati den einai kalo na mhn uparxei index arxeio kai na fainontai ta arxeia ston webserver
+3. eftiaksa ena generate-password.php arxeio gia na deis pws doulevei to login kai na kanis generate kwdikous gia xrhstes an tuxon to xriasteis
+4. des ta sxolia sta arxeia:
+	login2/login.php
+	config.php
+	delete_image.php
+	upload_image.php
+	gallery.php
